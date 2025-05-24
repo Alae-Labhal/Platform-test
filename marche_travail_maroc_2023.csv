@@ -1,0 +1,501 @@
+Secteur,Métier,Compétence,Nombre d'offres,Salaire Moyen (MAD),Évolution
+Santé,Médecin Spécialiste,Radiologie,474,18614,En chute
+Santé,Infirmier Urgentiste,Réanimation,466,14284,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,792,5646,En chute
+Transport,Planificateur de Transport,Systèmes Intelligents,787,10782,Stable
+Finance,Consultant en Finance,Investissements,282,13622,En forte hausse
+Éducation,Formateur Digital,Pédagogie,782,15625,En chute
+Transport,Gestionnaire Logistique,Transport International,497,7404,En légère baisse
+Commerce,Responsable Marketing Digital,SEO,255,19618,En forte hausse
+Éducation,Formateur Digital,Gestion de Contenu,945,5175,En chute
+Finance,Auditeur,Normes Comptables,321,18812,En chute
+Agriculture,Consultant en AgriTech,Drones Agricoles,168,11982,En forte hausse
+Technologie,Expert Cybersécurité,Ethical Hacking,142,15235,En chute
+Tourisme,Agent de Voyage Digital,Stratégie Digitale,970,23898,Stable
+Industrie,Technicien Robotique,Maintenance Industrielle,634,8982,En légère baisse
+Tourisme,Spécialiste Tourisme Durable,RSE,407,14211,En chute
+Finance,Consultant en Finance,Modélisation Financière,949,21312,En chute
+Éducation,Professeur Universitaire,Rédaction Scientifique,331,7348,En forte hausse
+Commerce,Chef de Rayon,Relation Client,969,17817,En forte hausse
+Technologie,Ingénieur Data,Python,538,12867,En légère baisse
+Tourisme,Agent de Voyage Digital,Stratégie Digitale,752,13477,En chute
+Industrie,Ingénieur Process,Optimisation Industrielle,902,16879,En chute
+Industrie,Ingénieur Process,Six Sigma,477,13867,En légère baisse
+Technologie,Développeur Web,JavaScript,567,10620,En légère baisse
+Transport,Planificateur de Transport,Systèmes Intelligents,209,24110,En forte hausse
+Technologie,Ingénieur Data,Machine Learning,981,15269,Stable
+Santé,Infirmier Urgentiste,Traumatologie,134,6150,En légère baisse
+Santé,Technicien de Laboratoire,Microbiologie,601,10070,En chute
+Technologie,Développeur Web,React,701,12576,Stable
+Technologie,Développeur Web,React,107,11897,En légère baisse
+Technologie,Ingénieur Data,Big Data,936,22735,En légère baisse
+Technologie,Développeur Web,JavaScript,724,15747,En chute
+Santé,Médecin Spécialiste,Chirurgie,756,9124,En légère baisse
+Éducation,Formateur Digital,Pédagogie,759,13842,En forte hausse
+Technologie,Ingénieur Data,Python,336,22272,En légère baisse
+Industrie,Opérateur CNC,Fraisage,773,21059,Stable
+Santé,Médecin Spécialiste,Oncologie,980,21698,Stable
+Agriculture,Technicien d’Irrigation,Automatisation Agricole,896,14386,Stable
+Technologie,Ingénieur Data,Machine Learning,518,8403,En chute
+Technologie,Ingénieur Data,Machine Learning,561,23568,En chute
+Finance,Risk Manager,Analyse de Risques,715,23445,En légère baisse
+Industrie,Ingénieur Process,Optimisation Industrielle,924,5004,En chute
+Commerce,Responsable Marketing Digital,Publicité en Ligne,653,21335,En forte hausse
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,879,9576,En chute
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,78,22801,Stable
+Industrie,Opérateur CNC,Fraisage,320,9072,En forte hausse
+Industrie,Opérateur CNC,Tournage,286,21960,En chute
+Finance,Consultant en Finance,Gestion des Risques,326,7254,Stable
+Industrie,Opérateur CNC,Fraisage,400,18061,En légère baisse
+Technologie,Expert Cybersécurité,SOC,799,10713,Stable
+Technologie,Ingénieur Data,Python,470,15240,En forte hausse
+Technologie,Ingénieur Data,Python,164,17397,Stable
+Finance,Risk Manager,Fraude Financière,38,5595,Stable
+Transport,Gestionnaire Logistique,ERP,182,9221,En légère baisse
+Éducation,Spécialiste e-Learning,SCORM,539,17357,En chute
+Santé,Infirmier Urgentiste,Soins Intensifs,767,8794,En légère baisse
+Technologie,Ingénieur Data,Big Data,233,18267,En forte hausse
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,118,21875,En chute
+Santé,Infirmier Urgentiste,Traumatologie,705,14571,En chute
+Éducation,Professeur Universitaire,Recherche Académique,910,14870,En chute
+Industrie,Opérateur CNC,G-code,154,5394,En légère baisse
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,473,9719,En forte hausse
+Transport,Conducteur de Train,Conduite Automatée,819,19536,En légère baisse
+Commerce,Responsable Marketing Digital,SEO,942,14131,En chute
+Commerce,Responsable Marketing Digital,Publicité en Ligne,871,23107,En forte hausse
+Santé,Médecin Spécialiste,Chirurgie,231,7377,Stable
+Agriculture,Technicien d’Irrigation,Hydraulique,391,19253,En légère baisse
+Commerce,Responsable Marketing Digital,Stratégie Web,405,13454,En forte hausse
+Santé,Technicien de Laboratoire,Analyse Chimique,581,19974,En légère baisse
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,95,7956,En chute
+Finance,Auditeur,Normes Comptables,992,19887,En forte hausse
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,491,14780,En légère baisse
+Industrie,Ingénieur Process,Lean Manufacturing,81,17394,En légère baisse
+Éducation,Professeur Universitaire,Rédaction Scientifique,960,22533,En légère baisse
+Industrie,Technicien Robotique,Maintenance Industrielle,582,20968,En légère baisse
+Éducation,Professeur Universitaire,Conférences,291,21472,En chute
+Tourisme,Spécialiste Tourisme Durable,Gestion Environnementale,452,5428,En légère baisse
+Agriculture,Ingénieur Agroalimentaire,Transformation Alimentaire,546,14553,Stable
+Finance,Consultant en Finance,Modélisation Financière,627,7383,En forte hausse
+Industrie,Ingénieur Process,Optimisation Industrielle,353,12949,Stable
+Technologie,Ingénieur Data,Python,397,22709,En légère baisse
+Éducation,Spécialiste e-Learning,SCORM,774,9319,En chute
+Transport,Conducteur de Train,Sécurité Transport,344,23932,Stable
+Industrie,Ingénieur Process,Lean Manufacturing,979,24576,En chute
+Commerce,E-commerçant,UX/UI,408,14001,En forte hausse
+Santé,Infirmier Urgentiste,Traumatologie,215,21037,Stable
+Agriculture,Consultant en AgriTech,Drones Agricoles,262,13477,Stable
+Transport,Conducteur de Train,Sécurité Transport,227,10379,En forte hausse
+Commerce,Responsable Marketing Digital,Stratégie Web,920,19757,En chute
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,704,18885,Stable
+Industrie,Opérateur CNC,G-code,78,19695,Stable
+Industrie,Opérateur CNC,Tournage,48,17744,En chute
+Commerce,Chef de Rayon,Gestion de Stock,580,15084,En légère baisse
+Technologie,Expert Cybersécurité,Ethical Hacking,910,5031,Stable
+Commerce,E-commerçant,UX/UI,229,22126,En légère baisse
+Commerce,E-commerçant,UX/UI,456,5951,En chute
+Éducation,Spécialiste e-Learning,Instructional Design,343,13026,En chute
+Transport,Gestionnaire Logistique,ERP,273,18364,En légère baisse
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,288,21092,Stable
+Finance,Auditeur,Normes Comptables,626,19181,En forte hausse
+Commerce,Chef de Rayon,Merchandising,421,13785,En forte hausse
+Technologie,Développeur Web,Node.js,274,21067,Stable
+Finance,Consultant en Finance,Modélisation Financière,717,5550,En forte hausse
+Finance,Consultant en Finance,Gestion des Risques,790,21805,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,145,18555,Stable
+Finance,Auditeur,Normes Comptables,178,10917,En légère baisse
+Technologie,Expert Cybersécurité,SOC,246,9826,En chute
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,337,15534,En chute
+Industrie,Technicien Robotique,Automatisation,340,9955,En forte hausse
+Agriculture,Consultant en AgriTech,Drones Agricoles,316,21658,En forte hausse
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,889,14141,Stable
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,579,18478,Stable
+Santé,Infirmier Urgentiste,Traumatologie,754,14876,Stable
+Industrie,Ingénieur Process,Six Sigma,610,13274,En chute
+Commerce,Responsable Marketing Digital,Stratégie Web,269,6849,En forte hausse
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,370,8078,Stable
+Commerce,Responsable Marketing Digital,Stratégie Web,491,11547,En forte hausse
+Santé,Infirmier Urgentiste,Réanimation,808,22821,Stable
+Éducation,Formateur Digital,Gestion de Contenu,609,13105,En légère baisse
+Finance,Auditeur,Audit Interne,364,21461,En légère baisse
+Finance,Auditeur,Normes Comptables,589,22829,En chute
+Finance,Consultant en Finance,Modélisation Financière,119,19720,En légère baisse
+Technologie,Ingénieur Data,Machine Learning,662,22533,En chute
+Technologie,Ingénieur Data,Machine Learning,39,20494,En forte hausse
+Santé,Médecin Spécialiste,Oncologie,666,8433,Stable
+Santé,Infirmier Urgentiste,Traumatologie,881,7868,Stable
+Industrie,Technicien Robotique,Programmation Robotique,796,23844,Stable
+Transport,Gestionnaire Logistique,ERP,96,13831,En légère baisse
+Santé,Technicien de Laboratoire,Microbiologie,847,10665,En légère baisse
+Transport,Gestionnaire Logistique,Transport International,109,11271,En chute
+Industrie,Technicien Robotique,Automatisation,722,12286,En légère baisse
+Finance,Risk Manager,Conformité,504,5922,En légère baisse
+Santé,Médecin Spécialiste,Radiologie,385,17562,En légère baisse
+Industrie,Ingénieur Process,Optimisation Industrielle,598,12992,Stable
+Industrie,Ingénieur Process,Lean Manufacturing,26,16085,Stable
+Commerce,E-commerçant,UX/UI,312,8033,En chute
+Commerce,E-commerçant,UX/UI,618,8588,En légère baisse
+Santé,Infirmier Urgentiste,Traumatologie,134,10038,En forte hausse
+Transport,Planificateur de Transport,Optimisation des Itinéraires,660,23451,En chute
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,547,19001,En chute
+Commerce,E-commerçant,Dropshipping,999,18984,En légère baisse
+Éducation,Professeur Universitaire,Conférences,280,19299,Stable
+Transport,Gestionnaire Logistique,ERP,894,6637,Stable
+Commerce,E-commerçant,Marketplace,662,23297,En chute
+Tourisme,Manager Hôtelier,Service Client,67,12606,Stable
+Commerce,Chef de Rayon,Relation Client,972,7346,En forte hausse
+Commerce,Responsable Marketing Digital,SEO,45,15876,En chute
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,306,11503,Stable
+Éducation,Spécialiste e-Learning,SCORM,773,23690,En forte hausse
+Finance,Consultant en Finance,Gestion des Risques,682,9618,En légère baisse
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,933,10622,En forte hausse
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,433,5988,En légère baisse
+Technologie,Développeur Web,Node.js,692,9619,En chute
+Éducation,Formateur Digital,Gestion de Contenu,636,17027,En légère baisse
+Industrie,Ingénieur Process,Six Sigma,447,23695,En forte hausse
+Industrie,Ingénieur Process,Optimisation Industrielle,41,18150,En forte hausse
+Tourisme,Manager Hôtelier,Service Client,876,11303,Stable
+Finance,Auditeur,Contrôle de Gestion,850,8937,En chute
+Santé,Médecin Spécialiste,Oncologie,752,13067,En légère baisse
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,619,5834,En forte hausse
+Transport,Gestionnaire Logistique,Transport International,672,10298,En légère baisse
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,867,20157,Stable
+Industrie,Technicien Robotique,Programmation Robotique,653,21368,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,378,8014,En forte hausse
+Finance,Consultant en Finance,Modélisation Financière,632,7107,Stable
+Agriculture,Technicien d’Irrigation,Hydraulique,849,18196,En légère baisse
+Éducation,Spécialiste e-Learning,LMS,370,12874,En chute
+Finance,Consultant en Finance,Gestion des Risques,856,7774,En légère baisse
+Commerce,Responsable Marketing Digital,Stratégie Web,438,5727,En chute
+Éducation,Spécialiste e-Learning,Instructional Design,800,10724,En forte hausse
+Industrie,Opérateur CNC,G-code,107,7893,En légère baisse
+Transport,Conducteur de Train,Réglementation Ferroviaire,74,8125,Stable
+Industrie,Technicien Robotique,Automatisation,630,11484,En forte hausse
+Éducation,Spécialiste e-Learning,Instructional Design,927,22987,En forte hausse
+Transport,Planificateur de Transport,Gestion des Flux,276,8312,Stable
+Santé,Technicien de Laboratoire,Microbiologie,712,21155,En chute
+Commerce,E-commerçant,Marketplace,744,23001,Stable
+Commerce,Chef de Rayon,Relation Client,257,16201,En légère baisse
+Technologie,Ingénieur Data,Python,916,17199,En légère baisse
+Santé,Infirmier Urgentiste,Traumatologie,107,12773,En forte hausse
+Commerce,Chef de Rayon,Gestion de Stock,392,9544,Stable
+Éducation,Spécialiste e-Learning,Instructional Design,581,15864,En chute
+Éducation,Formateur Digital,Gestion de Contenu,796,23200,Stable
+Transport,Planificateur de Transport,Systèmes Intelligents,713,16086,En chute
+Agriculture,Ingénieur Agroalimentaire,Bioénergie,565,19310,Stable
+Santé,Médecin Spécialiste,Oncologie,205,23404,En chute
+Agriculture,Ingénieur Agroalimentaire,Transformation Alimentaire,34,14678,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,845,23701,Stable
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,241,21740,En chute
+Santé,Médecin Spécialiste,Oncologie,927,17156,Stable
+Éducation,Professeur Universitaire,Conférences,36,15663,En légère baisse
+Transport,Conducteur de Train,Sécurité Transport,850,6614,Stable
+Finance,Auditeur,Contrôle de Gestion,85,6484,En chute
+Agriculture,Technicien d’Irrigation,Automatisation Agricole,831,5479,En chute
+Industrie,Ingénieur Process,Six Sigma,900,24031,En chute
+Tourisme,Agent de Voyage Digital,CRM,833,13525,Stable
+Tourisme,Manager Hôtelier,Gestion Hôtelière,715,14218,En chute
+Éducation,Spécialiste e-Learning,LMS,659,12967,En chute
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,320,5396,En forte hausse
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,411,7295,En légère baisse
+Santé,Technicien de Laboratoire,Biotechnologie,39,10339,En chute
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,834,15521,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,354,23031,En chute
+Industrie,Opérateur CNC,Tournage,109,10079,En légère baisse
+Finance,Risk Manager,Fraude Financière,526,6892,En légère baisse
+Industrie,Opérateur CNC,Fraisage,615,12800,En légère baisse
+Finance,Risk Manager,Analyse de Risques,180,6688,En légère baisse
+Finance,Auditeur,Normes Comptables,863,12003,Stable
+Commerce,Responsable Marketing Digital,Publicité en Ligne,383,19343,En forte hausse
+Technologie,Ingénieur Data,Machine Learning,835,20866,En forte hausse
+Finance,Auditeur,Contrôle de Gestion,538,10710,Stable
+Santé,Technicien de Laboratoire,Analyse Chimique,774,16349,En chute
+Santé,Médecin Spécialiste,Oncologie,170,12254,Stable
+Finance,Auditeur,Normes Comptables,341,13442,En chute
+Santé,Médecin Spécialiste,Radiologie,793,21465,En forte hausse
+Commerce,Responsable Marketing Digital,SEO,634,17325,Stable
+Santé,Technicien de Laboratoire,Analyse Chimique,130,8926,Stable
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,441,5711,En chute
+Santé,Technicien de Laboratoire,Analyse Chimique,60,17946,En légère baisse
+Transport,Planificateur de Transport,Gestion des Flux,236,9738,Stable
+Agriculture,Technicien d’Irrigation,Automatisation Agricole,542,5741,En légère baisse
+Finance,Risk Manager,Fraude Financière,700,15093,En chute
+Santé,Médecin Spécialiste,Chirurgie,808,5790,Stable
+Commerce,Responsable Marketing Digital,Publicité en Ligne,255,15800,Stable
+Technologie,Ingénieur Data,Python,874,8124,En légère baisse
+Industrie,Ingénieur Process,Lean Manufacturing,886,7892,Stable
+Transport,Conducteur de Train,Sécurité Transport,133,9488,En forte hausse
+Agriculture,Technicien d’Irrigation,Hydraulique,445,6237,En chute
+Santé,Technicien de Laboratoire,Microbiologie,692,11877,En forte hausse
+Technologie,Expert Cybersécurité,SOC,887,5613,Stable
+Technologie,Développeur Web,Node.js,954,11215,En forte hausse
+Commerce,Chef de Rayon,Relation Client,251,21610,Stable
+Agriculture,Technicien d’Irrigation,Hydraulique,346,15393,En légère baisse
+Technologie,Développeur Web,JavaScript,539,7701,En légère baisse
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,111,9452,En forte hausse
+Industrie,Opérateur CNC,Fraisage,662,22041,En forte hausse
+Santé,Médecin Spécialiste,Chirurgie,476,23384,Stable
+Commerce,Chef de Rayon,Gestion de Stock,745,11034,En légère baisse
+Transport,Gestionnaire Logistique,ERP,663,21471,Stable
+Éducation,Formateur Digital,Gestion de Contenu,741,24200,En légère baisse
+Tourisme,Manager Hôtelier,Service Client,348,22733,En chute
+Finance,Consultant en Finance,Investissements,638,16089,En légère baisse
+Santé,Médecin Spécialiste,Radiologie,933,17523,En forte hausse
+Transport,Conducteur de Train,Réglementation Ferroviaire,535,20089,Stable
+Agriculture,Technicien d’Irrigation,Hydraulique,254,10704,En chute
+Santé,Médecin Spécialiste,Oncologie,737,19020,En chute
+Finance,Risk Manager,Fraude Financière,107,16973,En forte hausse
+Éducation,Spécialiste e-Learning,Instructional Design,442,13713,En forte hausse
+Éducation,Professeur Universitaire,Rédaction Scientifique,959,21041,En légère baisse
+Industrie,Ingénieur Process,Lean Manufacturing,742,15899,En forte hausse
+Transport,Conducteur de Train,Conduite Automatée,25,14945,En forte hausse
+Industrie,Opérateur CNC,Fraisage,87,24295,Stable
+Transport,Conducteur de Train,Réglementation Ferroviaire,427,20950,En chute
+Transport,Gestionnaire Logistique,ERP,799,24529,En forte hausse
+Industrie,Technicien Robotique,Maintenance Industrielle,448,14728,Stable
+Industrie,Technicien Robotique,Maintenance Industrielle,47,8694,En chute
+Transport,Conducteur de Train,Sécurité Transport,703,16452,En forte hausse
+Industrie,Technicien Robotique,Automatisation,544,10444,En légère baisse
+Agriculture,Technicien d’Irrigation,Hydraulique,462,8012,Stable
+Industrie,Ingénieur Process,Lean Manufacturing,804,14305,Stable
+Technologie,Expert Cybersécurité,Ethical Hacking,779,13791,En chute
+Industrie,Opérateur CNC,Tournage,221,13311,Stable
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,796,23291,En légère baisse
+Commerce,Responsable Marketing Digital,SEO,346,18875,En forte hausse
+Transport,Gestionnaire Logistique,ERP,841,17723,Stable
+Tourisme,Agent de Voyage Digital,Stratégie Digitale,841,15695,En forte hausse
+Commerce,E-commerçant,UX/UI,133,15312,En légère baisse
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,792,13298,En chute
+Santé,Médecin Spécialiste,Chirurgie,721,11569,En légère baisse
+Finance,Auditeur,Audit Interne,449,19701,En forte hausse
+Finance,Risk Manager,Conformité,374,9541,Stable
+Agriculture,Consultant en AgriTech,Blockchain Alimentaire,55,7358,Stable
+Éducation,Formateur Digital,Pédagogie,458,18803,En chute
+Éducation,Professeur Universitaire,Conférences,239,22455,Stable
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,179,12715,En forte hausse
+Finance,Consultant en Finance,Investissements,369,22684,En légère baisse
+Tourisme,Manager Hôtelier,Gestion Hôtelière,928,9996,En chute
+Commerce,Chef de Rayon,Relation Client,980,5039,En chute
+Commerce,Chef de Rayon,Relation Client,517,6428,En légère baisse
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,378,13206,Stable
+Finance,Auditeur,Audit Interne,389,17051,En chute
+Industrie,Opérateur CNC,G-code,930,15870,Stable
+Industrie,Opérateur CNC,Fraisage,285,14621,En forte hausse
+Éducation,Spécialiste e-Learning,LMS,146,18329,En forte hausse
+Commerce,Chef de Rayon,Relation Client,730,22112,En forte hausse
+Finance,Auditeur,Audit Interne,171,15706,En chute
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,655,12401,Stable
+Technologie,Expert Cybersécurité,SOC,878,9010,En forte hausse
+Agriculture,Technicien d’Irrigation,Hydraulique,753,5758,En chute
+Transport,Planificateur de Transport,Gestion des Flux,209,13051,En légère baisse
+Agriculture,Consultant en AgriTech,Blockchain Alimentaire,954,8293,En forte hausse
+Éducation,Spécialiste e-Learning,SCORM,41,12630,En légère baisse
+Agriculture,Technicien d’Irrigation,Hydraulique,400,10503,En légère baisse
+Commerce,Responsable Marketing Digital,SEO,837,7194,Stable
+Finance,Risk Manager,Fraude Financière,404,17514,Stable
+Transport,Conducteur de Train,Sécurité Transport,998,18463,En forte hausse
+Tourisme,Manager Hôtelier,Tourisme International,929,13804,En légère baisse
+Santé,Médecin Spécialiste,Radiologie,36,22763,En légère baisse
+Transport,Planificateur de Transport,Systèmes Intelligents,314,19462,En forte hausse
+Tourisme,Manager Hôtelier,Tourisme International,206,10100,En forte hausse
+Santé,Médecin Spécialiste,Oncologie,902,18538,En chute
+Transport,Gestionnaire Logistique,ERP,747,19863,En forte hausse
+Finance,Risk Manager,Fraude Financière,533,18281,En chute
+Industrie,Ingénieur Process,Lean Manufacturing,653,11878,Stable
+Transport,Planificateur de Transport,Optimisation des Itinéraires,979,22843,Stable
+Technologie,Développeur Web,React,429,15484,En légère baisse
+Transport,Planificateur de Transport,Gestion des Flux,412,21929,En chute
+Commerce,E-commerçant,UX/UI,278,12773,En chute
+Commerce,Chef de Rayon,Gestion de Stock,63,19091,En légère baisse
+Industrie,Ingénieur Process,Lean Manufacturing,366,13046,En chute
+Transport,Conducteur de Train,Conduite Automatée,50,18668,En forte hausse
+Éducation,Formateur Digital,E-learning,147,12813,Stable
+Éducation,Formateur Digital,Gestion de Contenu,144,24893,En forte hausse
+Finance,Auditeur,Audit Interne,792,18858,En forte hausse
+Éducation,Formateur Digital,E-learning,705,23776,En légère baisse
+Technologie,Développeur Web,JavaScript,158,12336,En chute
+Agriculture,Consultant en AgriTech,Blockchain Alimentaire,784,20641,En chute
+Éducation,Professeur Universitaire,Recherche Académique,824,5009,En chute
+Commerce,E-commerçant,Marketplace,93,24996,Stable
+Finance,Risk Manager,Conformité,444,10200,En chute
+Transport,Gestionnaire Logistique,Transport International,736,12807,Stable
+Transport,Conducteur de Train,Sécurité Transport,590,19937,En chute
+Santé,Infirmier Urgentiste,Traumatologie,337,16488,En chute
+Industrie,Opérateur CNC,Fraisage,837,9674,Stable
+Éducation,Spécialiste e-Learning,LMS,447,6965,Stable
+Commerce,Chef de Rayon,Relation Client,435,19008,En chute
+Santé,Médecin Spécialiste,Oncologie,954,19275,En légère baisse
+Finance,Auditeur,Audit Interne,25,8700,En forte hausse
+Transport,Gestionnaire Logistique,Transport International,305,23951,En chute
+Transport,Planificateur de Transport,Systèmes Intelligents,715,19462,En forte hausse
+Technologie,Expert Cybersécurité,Ethical Hacking,871,21756,En chute
+Tourisme,Agent de Voyage Digital,Réservation en Ligne,558,12481,En légère baisse
+Santé,Technicien de Laboratoire,Biotechnologie,665,23516,En chute
+Tourisme,Manager Hôtelier,Service Client,845,17661,En légère baisse
+Éducation,Formateur Digital,Gestion de Contenu,836,14015,En forte hausse
+Transport,Planificateur de Transport,Systèmes Intelligents,900,19885,En légère baisse
+Santé,Médecin Spécialiste,Radiologie,453,21266,En forte hausse
+Transport,Planificateur de Transport,Optimisation des Itinéraires,523,14622,Stable
+Commerce,E-commerçant,Dropshipping,162,17112,En forte hausse
+Finance,Risk Manager,Analyse de Risques,64,14415,Stable
+Commerce,Responsable Marketing Digital,Stratégie Web,698,9674,En légère baisse
+Commerce,Responsable Marketing Digital,Stratégie Web,652,16661,En légère baisse
+Commerce,E-commerçant,Marketplace,991,13505,En légère baisse
+Commerce,Responsable Marketing Digital,SEO,333,11434,En chute
+Transport,Planificateur de Transport,Systèmes Intelligents,645,22385,En forte hausse
+Industrie,Ingénieur Process,Optimisation Industrielle,309,15875,En forte hausse
+Tourisme,Agent de Voyage Digital,Stratégie Digitale,682,17286,En chute
+Technologie,Développeur Web,React,630,9421,Stable
+Finance,Risk Manager,Fraude Financière,775,21117,En forte hausse
+Industrie,Ingénieur Process,Six Sigma,108,16042,Stable
+Industrie,Ingénieur Process,Lean Manufacturing,559,16556,En chute
+Santé,Technicien de Laboratoire,Microbiologie,396,5144,En forte hausse
+Industrie,Technicien Robotique,Maintenance Industrielle,863,12298,En chute
+Industrie,Technicien Robotique,Programmation Robotique,93,17418,En forte hausse
+Commerce,E-commerçant,Marketplace,985,5526,En chute
+Technologie,Expert Cybersécurité,Ethical Hacking,299,8394,En chute
+Transport,Gestionnaire Logistique,ERP,134,6879,Stable
+Éducation,Formateur Digital,Gestion de Contenu,149,21374,En chute
+Transport,Planificateur de Transport,Optimisation des Itinéraires,595,20371,Stable
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,350,10507,Stable
+Tourisme,Spécialiste Tourisme Durable,RSE,204,19616,Stable
+Tourisme,Agent de Voyage Digital,CRM,996,22520,En forte hausse
+Santé,Médecin Spécialiste,Radiologie,893,9994,Stable
+Industrie,Opérateur CNC,G-code,207,24332,En chute
+Santé,Technicien de Laboratoire,Analyse Chimique,161,5249,En forte hausse
+Éducation,Spécialiste e-Learning,SCORM,609,16851,En chute
+Transport,Conducteur de Train,Sécurité Transport,818,12215,En chute
+Transport,Gestionnaire Logistique,Transport International,433,24794,En chute
+Industrie,Ingénieur Process,Lean Manufacturing,94,6478,En forte hausse
+Industrie,Technicien Robotique,Programmation Robotique,771,5183,En chute
+Tourisme,Manager Hôtelier,Tourisme International,146,18515,Stable
+Éducation,Formateur Digital,Pédagogie,127,16197,En forte hausse
+Éducation,Professeur Universitaire,Conférences,506,13435,En forte hausse
+Industrie,Opérateur CNC,Fraisage,443,18734,En forte hausse
+Technologie,Développeur Web,React,125,10005,En forte hausse
+Commerce,Responsable Marketing Digital,SEO,540,6537,Stable
+Technologie,Développeur Web,Node.js,360,6548,En légère baisse
+Éducation,Formateur Digital,Pédagogie,380,8400,En légère baisse
+Finance,Consultant en Finance,Gestion des Risques,970,17858,En forte hausse
+Finance,Consultant en Finance,Investissements,799,14685,En légère baisse
+Industrie,Technicien Robotique,Automatisation,70,7582,En chute
+Agriculture,Ingénieur Agroalimentaire,Transformation Alimentaire,604,13983,En forte hausse
+Transport,Planificateur de Transport,Systèmes Intelligents,479,12019,En légère baisse
+Industrie,Ingénieur Process,Lean Manufacturing,36,10083,Stable
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,316,17645,En chute
+Industrie,Ingénieur Process,Six Sigma,803,13605,En légère baisse
+Industrie,Technicien Robotique,Maintenance Industrielle,422,22464,En légère baisse
+Technologie,Expert Cybersécurité,Ethical Hacking,116,12109,En forte hausse
+Technologie,Développeur Web,JavaScript,963,17862,En légère baisse
+Éducation,Spécialiste e-Learning,SCORM,871,16890,En chute
+Finance,Auditeur,Contrôle de Gestion,167,13128,En légère baisse
+Éducation,Spécialiste e-Learning,SCORM,147,5749,Stable
+Tourisme,Spécialiste Tourisme Durable,Gestion Environnementale,512,5896,En forte hausse
+Agriculture,Consultant en AgriTech,Big Data en Agriculture,463,19500,En chute
+Industrie,Ingénieur Process,Six Sigma,167,22157,Stable
+Éducation,Spécialiste e-Learning,Instructional Design,170,6019,En chute
+Finance,Consultant en Finance,Modélisation Financière,346,5015,En forte hausse
+Éducation,Professeur Universitaire,Recherche Académique,652,21955,En chute
+Agriculture,Technicien d’Irrigation,Hydraulique,691,5983,Stable
+Industrie,Technicien Robotique,Programmation Robotique,911,24724,En forte hausse
+Tourisme,Manager Hôtelier,Gestion Hôtelière,978,16145,En forte hausse
+Industrie,Ingénieur Process,Optimisation Industrielle,536,8773,En chute
+Santé,Technicien de Laboratoire,Analyse Chimique,770,5528,En chute
+Agriculture,Ingénieur Agroalimentaire,Bioénergie,594,11236,Stable
+Agriculture,Consultant en AgriTech,Blockchain Alimentaire,724,9107,Stable
+Commerce,Chef de Rayon,Merchandising,580,22411,Stable
+Industrie,Opérateur CNC,Fraisage,870,21712,En forte hausse
+Transport,Planificateur de Transport,Optimisation des Itinéraires,419,18380,En légère baisse
+Finance,Consultant en Finance,Modélisation Financière,397,6632,En chute
+Commerce,Chef de Rayon,Merchandising,48,19780,En forte hausse
+Transport,Conducteur de Train,Réglementation Ferroviaire,530,22750,En forte hausse
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,119,21855,En chute
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,652,17418,En légère baisse
+Tourisme,Manager Hôtelier,Service Client,900,22303,En chute
+Technologie,Ingénieur Data,Big Data,695,19954,En légère baisse
+Santé,Technicien de Laboratoire,Analyse Chimique,798,12298,En chute
+Commerce,Chef de Rayon,Merchandising,952,17014,Stable
+Commerce,Responsable Marketing Digital,Publicité en Ligne,698,15402,En forte hausse
+Finance,Consultant en Finance,Gestion des Risques,615,15456,En légère baisse
+Éducation,Spécialiste e-Learning,SCORM,41,11250,En forte hausse
+Commerce,E-commerçant,Dropshipping,651,6514,Stable
+Transport,Conducteur de Train,Réglementation Ferroviaire,961,9102,En légère baisse
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,412,11902,En chute
+Technologie,Expert Cybersécurité,SOC,525,15144,En légère baisse
+Finance,Risk Manager,Fraude Financière,447,5127,Stable
+Finance,Consultant en Finance,Investissements,775,7242,En légère baisse
+Technologie,Expert Cybersécurité,SOC,444,5246,En forte hausse
+Transport,Planificateur de Transport,Optimisation des Itinéraires,70,12123,En forte hausse
+Santé,Médecin Spécialiste,Chirurgie,622,21363,Stable
+Industrie,Opérateur CNC,Tournage,500,15958,Stable
+Technologie,Expert Cybersécurité,Ethical Hacking,550,18369,En forte hausse
+Industrie,Opérateur CNC,Tournage,599,10417,En forte hausse
+Technologie,Développeur Web,JavaScript,356,8490,En forte hausse
+Tourisme,Agent de Voyage Digital,CRM,274,6761,En forte hausse
+Tourisme,Spécialiste Tourisme Durable,RSE,283,22165,En chute
+Éducation,Professeur Universitaire,Rédaction Scientifique,385,17946,En chute
+Technologie,Ingénieur Data,Machine Learning,874,13026,En forte hausse
+Technologie,Développeur Web,React,550,14662,En légère baisse
+Commerce,Responsable Marketing Digital,Stratégie Web,162,16409,En forte hausse
+Finance,Risk Manager,Conformité,113,22337,Stable
+Commerce,E-commerçant,UX/UI,636,24915,En légère baisse
+Éducation,Formateur Digital,Pédagogie,734,6249,En chute
+Transport,Conducteur de Train,Réglementation Ferroviaire,543,12190,En forte hausse
+Commerce,E-commerçant,Dropshipping,320,5964,Stable
+Industrie,Ingénieur Process,Optimisation Industrielle,977,9849,En chute
+Transport,Conducteur de Train,Sécurité Transport,881,6286,Stable
+Technologie,Expert Cybersécurité,SOC,892,21862,Stable
+Agriculture,Ingénieur Agroalimentaire,Transformation Alimentaire,920,23670,En forte hausse
+Santé,Infirmier Urgentiste,Soins Intensifs,900,18234,Stable
+Tourisme,Manager Hôtelier,Gestion Hôtelière,765,7405,En légère baisse
+Transport,Conducteur de Train,Sécurité Transport,671,10268,En forte hausse
+Finance,Auditeur,Contrôle de Gestion,166,19190,En forte hausse
+Santé,Infirmier Urgentiste,Soins Intensifs,691,11617,Stable
+Agriculture,Ingénieur Agroalimentaire,Sécurité Alimentaire,404,20984,En chute
+Finance,Risk Manager,Fraude Financière,907,20497,En chute
+Commerce,E-commerçant,Marketplace,495,6046,En légère baisse
+Commerce,Chef de Rayon,Relation Client,169,7305,En forte hausse
+Éducation,Formateur Digital,Pédagogie,108,18394,En légère baisse
+Finance,Auditeur,Contrôle de Gestion,980,23151,En chute
+Éducation,Formateur Digital,E-learning,538,7557,En légère baisse
+Agriculture,Technicien d’Irrigation,Automatisation Agricole,242,8204,En légère baisse
+Santé,Médecin Spécialiste,Oncologie,827,9762,En légère baisse
+Transport,Planificateur de Transport,Systèmes Intelligents,746,13062,En forte hausse
+Finance,Consultant en Finance,Gestion des Risques,819,6485,En légère baisse
+Commerce,Chef de Rayon,Merchandising,300,17005,En légère baisse
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,996,14455,En forte hausse
+Commerce,Responsable Marketing Digital,Stratégie Web,13,16172,En légère baisse
+Finance,Consultant en Finance,Gestion des Risques,752,24185,En forte hausse
+Tourisme,Manager Hôtelier,Service Client,451,12853,En légère baisse
+Transport,Planificateur de Transport,Optimisation des Itinéraires,315,18451,En légère baisse
+Tourisme,Spécialiste Tourisme Durable,Écotourisme,155,7422,Stable
+Technologie,Expert Cybersécurité,Sécurité Réseau,599,16091,En forte hausse
+Agriculture,Technicien d’Irrigation,Hydraulique,230,9400,En légère baisse
+Commerce,E-commerçant,Marketplace,525,18370,En chute
+Éducation,Spécialiste e-Learning,SCORM,561,10260,En chute
+Tourisme,Manager Hôtelier,Service Client,254,19498,En légère baisse
+Éducation,Spécialiste e-Learning,Instructional Design,686,6816,En légère baisse
+Finance,Auditeur,Contrôle de Gestion,743,15444,En légère baisse
+Éducation,Spécialiste e-Learning,LMS,991,6375,Stable
+Transport,Planificateur de Transport,Systèmes Intelligents,800,5627,Stable
+Agriculture,Technicien d’Irrigation,Hydraulique,108,6696,En légère baisse
+Agriculture,Technicien d’Irrigation,Gestion de l'Eau,667,18019,En forte hausse
+Technologie,Expert Cybersécurité,SOC,947,21195,Stable
+Transport,Gestionnaire Logistique,Chaîne d'Approvisionnement,593,19687,En chute
+Industrie,Opérateur CNC,Fraisage,90,8626,Stable
+Finance,Risk Manager,Fraude Financière,180,14412,En légère baisse
+Finance,Consultant en Finance,Investissements,754,13218,En forte hausse
+Commerce,E-commerçant,Marketplace,280,22609,Stable
+Transport,Gestionnaire Logistique,Transport International,286,10275,En forte hausse
+Technologie,Ingénieur Data,Big Data,44,13748,En forte hausse
+Santé,Médecin Spécialiste,Radiologie,840,19999,Stable
+Transport,Planificateur de Transport,Gestion des Flux,952,20082,Stable
+Commerce,E-commerçant,Marketplace,962,12724,Stable
+Transport,Conducteur de Train,Conduite Automatée,983,24384,Stable
+Technologie,Développeur Web,JavaScript,211,23167,En chute
+Éducation,Professeur Universitaire,Recherche Académique,397,15196,Stable
+Agriculture,Technicien d’Irrigation,Automatisation Agricole,869,12521,En légère baisse
+Commerce,E-commerçant,UX/UI,890,12783,En légère baisse
+Industrie,Technicien Robotique,Programmation Robotique,607,13012,En chute
+Technologie,Ingénieur Data,Machine Learning,536,9677,En chute
+Finance,Auditeur,Normes Comptables,948,22370,Stable
